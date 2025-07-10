@@ -1,0 +1,5 @@
+name: YooLib
+version: '1.0'
+main: dev.yooproject.yoolib.YooLib
+api-version: '1.16'
+load: STARTUP
